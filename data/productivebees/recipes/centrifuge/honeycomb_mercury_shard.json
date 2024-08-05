@@ -1,12 +1,12 @@
 {
     "type": "productivebees:centrifuge",
     "ingredient": {
-    "type": "productivebees:component",
-    "components": {
-      "productivebees:bee_type": "productivebees:mercury_shard"
+        "type": "productivebees:component",
+        "components": {
+            "productivebees:bee_type": "productivebees:mercury_shard"
+        },
+        "items": "productivebees:configurable_honeycomb"
     },
-    "items": "productivebees:configurable_honeycomb"
-  },
     "outputs": [
         {
             "item": {
