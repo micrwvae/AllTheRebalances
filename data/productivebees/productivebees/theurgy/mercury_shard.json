@@ -3,7 +3,7 @@
     "secondaryColor": "#C1CAD8",
     "tertiaryColor": "#7386A1",
     "particleColor": "#7386A1",
-    "flowerItem": "#theurgy:alchemical_mercury",
+    "flowerItem": "theurgy:mercury_shard",
     "size": 0.7,
     "renderer": "default_crystal",
     "conditions": [
