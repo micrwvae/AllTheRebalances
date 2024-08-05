@@ -3,7 +3,7 @@
   "source": "productivebees:coal",
   "result": "productivebees:mercury_shard",
   "item": {
-      "item": "theurgy:mercury_shard"
+      "item": "#theurgy:alchemical_mercury"
   },
   "neoforge:conditions": [
       {
