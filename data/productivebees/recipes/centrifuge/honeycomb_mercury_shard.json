@@ -1,0 +1,31 @@
+{
+    "type": "productivebees:centrifuge",
+    "ingredient": {
+    "type": "productivebees:component",
+    "components": {
+      "productivebees:bee_type": "productivebees:mercury_shard"
+    },
+    "items": "productivebees:configurable_honeycomb"
+  },
+    "outputs": [
+        {
+            "item": {
+                "item": "theurgy:mercury_shard"
+            },
+            "min": 1,
+            "max": 2,
+            "chance": 90
+        },
+        {
+            "item": {
+                "tag": "c:wax"
+            }
+        },
+        {
+            "fluid": {
+                "fluid": "productivebees:honey"
+            },
+            "amount": 50
+        }
+    ]
+}

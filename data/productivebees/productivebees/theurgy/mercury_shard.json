@@ -1,0 +1,15 @@
+{
+    "primaryColor": "#A4B4CC",
+    "secondaryColor": "#C1CAD8",
+    "tertiaryColor": "#7386A1",
+    "particleColor": "#7386A1",
+    "flowerItem": "theurgy:mercury_shard",
+    "size": 0.7,
+    "renderer": "default_crystal",
+    "conditions": [
+      {
+        "modid": "theurgy",
+        "type": "neoforge:mod_loaded"
+      }
+    ]
+  }
