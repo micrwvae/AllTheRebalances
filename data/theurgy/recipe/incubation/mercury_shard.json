@@ -5,17 +5,12 @@
         "item": "theurgy:mercury_shard"
     },
     "result": {
-        "components": {
-            "minecraft:entity_data": {
-                "type": "productivebees:mercury_shard",
-                "id": "productivebees:configurable_bee"
-            }
-        },
+        "type": "theurgy:item",
         "count": 1,
-        "id": "productivebees:spawn_egg_configurable_bee"
-    },
+        "id": "productivebees:spawn_egg_configurable"
+      },
     "salt": {
-        "item": "#theurgy:alchemical_salts"
+        "item": "theurgy:alchemical_salt_plant"
     },
     "sulfur": {
         "item": "minecraft:bee_spawn_egg"
