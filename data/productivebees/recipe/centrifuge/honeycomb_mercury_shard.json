@@ -20,12 +20,6 @@
             "item": {
                 "tag": "c:wax"
             }
-        },
-        {
-            "fluid": {
-                "fluid": "productivebees:honey"
-            },
-            "amount": 50
         }
     ]
 }
