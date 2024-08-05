@@ -1,6 +1,6 @@
 {
   "type": "productivebees:bee_conversion",
-  "source": "productivebees:diamond",
+  "source": "productivebees:coal",
   "result": "productivebees:mercury_shard",
   "item": {
       "item": "theurgy:mercury_shard"
