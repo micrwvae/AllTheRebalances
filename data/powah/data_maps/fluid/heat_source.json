@@ -1,0 +1,12 @@
+{
+    "values": {
+      "#c:lava": {
+        "temperature": 1000
+      }
+    },
+    "values": {
+        "allthemodium:soul": {
+          "temperature": 1000
+        }
+      }
+  }
