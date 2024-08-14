@@ -2,11 +2,9 @@
     "values": {
       "#c:lava": {
         "temperature": 1000
+      },
+      "allthemodium:soul_lava":{
+        "temperature": 9000
       }
-    },
-    "values": {
-        "allthemodium:soul_lava": {
-          "temperature": 9000
-        }
-      }
+    }
   }
