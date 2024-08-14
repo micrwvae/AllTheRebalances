@@ -5,8 +5,8 @@
       }
     },
     "values": {
-        "allthemodium:soul": {
-          "temperature": 1000
+        "allthemodium:soul_lava": {
+          "temperature": 9000
         }
       }
   }
