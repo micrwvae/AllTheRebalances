@@ -1,0 +1,14 @@
+{
+    "primaryColor": "#088509",
+    "secondaryColor": "#1FD021",
+    "particleColor": "#94FF95",
+    "flowerTag": "productivebees:flower/xychorium",
+    "size:": 0.8,
+    "renderer": "default_crystal",
+    "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "xycraft_world"
+        }
+      ]
+}
